@@ -1,0 +1,6 @@
+catatanid;kasid;userid;deskripsi;tanggal;amount;kategori;tipe;flow
+1;1;1;Wagyu A5 Kertas;31-10-2022;3000000;makan;variable;Pengeluaran
+2;1;1;Kebaya Ungu;31-10-2022;20000;pakaian;variable;Pengeluaran
+3;1;1;Celana Jeans;31-10-2022;200000;pakaian;variable;Pengeluaran
+4;2;1;Jaket HMIF;31-10-2022;150000;pakaian;variable;Pengeluaran
+5;1;1;Blaa;31-10-2022;50000;makan;variable;Pengeluaran
